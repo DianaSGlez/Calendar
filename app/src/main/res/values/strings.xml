@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="tv_fecha">dd/mm/aa</string>
+    <string name="btn_seleccionar">Seleccionar fecha</string>
+</resources>
